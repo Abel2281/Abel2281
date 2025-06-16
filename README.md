@@ -34,14 +34,14 @@
   <img src="https://img.icons8.com/plasticine/48/000000/react.png" title="React"/>
   <img src="https://img.icons8.com/color/48/tailwindcss.png" title="Tailwind CSS"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/windows/48/000000/express-js.png" title="Express.js"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000" title="MongoDB"/>
+  <img src="https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000" title="Expressjs"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" title="Git"/>
+  <img src="https://img.icons8.com/?size=100&id=106564&format=png&color=000000" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" title="VS Code"/>
-  <img src="https://img.icons8.com/color/48/fastapi.png" title="FastAPI"/>
-  <img src="https://img.icons8.com/color/48/figma--v1.png" title="Figma"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/notion.png" title="Notion"/>
+  <img src="https://github.com/user-attachments/assets/ffc1cafb-b393-490c-ab43-86aebc9410c1" title="FastAPI"/>
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" title="Figma"/>
+  <img src="https://img.icons8.com/?size=100&id=nvtEH6DpqruC&format=png&color=000000" title="Notion"/>
 </p>
 
 
