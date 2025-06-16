@@ -63,9 +63,3 @@
 </p>
 
 ---
-
-## 🔥 Contribution Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abel2281&theme=darkhub&no-bg=true&no-frame=true" />
-</p>
