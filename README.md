@@ -1,7 +1,6 @@
 <h2 align="center">Hello, Myself Abel S Mathew</h2>
 <h4 align="center">A passionate web developer and Project Coordinator at FOCES, CEC</h4>
 
----
 
 ## 🧑‍💻 About Me
 
@@ -19,7 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
 
----
 
 ## ⚒️ Languages and Tools
 
@@ -50,8 +48,6 @@
 </p>
 
 
-
----
 
 ## 📊 GitHub Stats
 
