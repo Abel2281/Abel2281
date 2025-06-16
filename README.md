@@ -15,7 +15,7 @@
 
 ## 🌐 My Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/abel-s-mathew-7b3035202)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abel-s-mathew-7b3035202) 
 
 
 ## ⚒️ Languages and Tools
