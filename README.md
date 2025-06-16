@@ -23,8 +23,6 @@
 
 ## ⚒️ Languages and Tools
 
-## ⚒️ Languages and Tools
-
 <p align="center">
   <!-- First Row -->
   <img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
@@ -42,7 +40,7 @@
 <p align="center">
   <!-- Second Row -->
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" title="MongoDB"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/express-js.png" title="Express.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" title="Express.js"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" title="FastAPI"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub"/>
